@@ -2,7 +2,7 @@
 
 This is the static job listing/filtering page challenge by frontendmenter.io. Coded by me.
 
-You can access the challenge from <a href="https://www.frontendmentor.io/challenges/job-listings-with-filtering-ivstIPCt" target="_blank">this link</a>
+You can access the challenge from <a href="https://react-job-listing-with-filtering.netlify.app/" target="_blank">this link</a>
 
 You can access the website from <a href="https://huddle-landing-page.fatihcaen.now.sh/" target="_blank">this link</a>
 
